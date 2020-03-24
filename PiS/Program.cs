@@ -12,6 +12,7 @@ namespace PiS
         {
             Console.WriteLine("Halo halo metnem ti ga ...");
             Console.WriteLine("ha ha ha");
+            Console.WriteLine("Nemoj me...");
         }
     }
 }
