@@ -9,5 +9,6 @@ namespace PiS
     class Class1
     {
         var matemate;
+        var lukaluka;
     }
 }
