@@ -10,9 +10,8 @@ namespace PiS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Halo halo metnem ti ga ...");
-            Console.WriteLine("ha ha ha");
-            Console.WriteLine("Nemoj me...");
+            Console.WriteLine("Mama, just killed a man");
+     
         }
     }
 }
